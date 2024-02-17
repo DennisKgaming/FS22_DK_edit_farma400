@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="72">
+	<author>DDennisK</author>
+	<version>1.0.0.0</version>
+
+	<title>            
+		<en>Multi purpose Farma400 silo DK edit</en>
+	</title>
+	
+<description>
+<en>
+<![CDATA[Multi purpose Farma400 silo can hold 400000
+]]>
+</en>
+</description>
+	
+	<multiplayer supported="true"/>
+	
+	<iconFilename>$data/placeables/unia/farma/farma400/store_farma400.png</iconFilename>
+	
+	<storeItems>
+		<storeItem rootNode="placeable" xmlFilename="farma400.xml"/>
+	</storeItems>
+</modDesc>
